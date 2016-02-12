@@ -1,2 +1,2 @@
 # mystuff
-My PUBLIC stuff
+My PUBLIC stuff.
